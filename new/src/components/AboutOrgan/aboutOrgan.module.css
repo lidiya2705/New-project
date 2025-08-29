@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.container {
+  padding-right: 120px;
+  padding-left: 120px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.aboutOrgan {
+  padding: 85px 0;
+}
+.aboutOrganTitle {
+  color: #000000;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 150%;
+  font-family: "Montserrat";
+}
+.aboutOrganDescr {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 150%;
+  font-family: "Montserrat";
+}
+
+@media (min-width: 1367px) and (max-width: 1740px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    padding-right: 110px;
+    padding-left: 110px;
+  }
+}
+
+@media (min-width: 993px) and (max-width: 1366px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+}
