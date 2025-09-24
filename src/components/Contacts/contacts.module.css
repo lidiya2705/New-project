@@ -18,11 +18,30 @@
   line-height: 150%;
   font-family: "Montserrat";
 }
-.contactsDescr {
+.contactsCaption {
   font-size: 25px;
   font-weight: 600;
   line-height: 150%;
   font-family: "Montserrat";
+}
+
+.contactsDescr {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  font-family: "Montserrat";
+  margin-bottom: 45px;
+}
+
+.contactsLink {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%;
+  font-family: "Montserrat";
+  margin-bottom: 15px;
 }
 
 @media (min-width: 1367px) and (max-width: 1740px) {

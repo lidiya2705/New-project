@@ -23,6 +23,15 @@
   font-weight: 600;
   line-height: 150%;
   font-family: "Montserrat";
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
+
+.aboutOrganSubTitle {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+  font-family: "Montserrat";
 }
 
 @media (min-width: 1367px) and (max-width: 1740px) {

@@ -10,9 +10,9 @@
 
 .homeContainer {
   padding: 230px 0 230px 0;
-  /* background: url(../img/hero\ bg.jpg) no-repeat center; */
+  background: url(./P8150084.JPG) no-repeat center;
   background-color: #8892b5;
-  /* background-size: cover; */
+  background-size: cover;
   position: relative;
   z-index: 100;
   display: flex;

@@ -5,7 +5,6 @@ export const Home = () => {
     <>
       <section className={s.homeContainer}>
         <div className={s.container}>
-          {" "}
           <div className={s.homeCard}>
             <div className={s.homeTitle}>
               <h1>Орган по валидации и верификации парниковых газов</h1>
