@@ -180,7 +180,7 @@ export const AboutOrgan = () => {
           <p className={s.aboutOrganDescr}> Обеспечение беспристрастности </p>
           <h3 className={s.aboutOrganSubTitle}>
             Принимая настоящую{" "}
-            <a href="documents/politica.pdf" title="открыть файл" ы>
+            <a href="documents/politica.pdf" title="Открыть файл">
               Политику по управлению беспристрастности
             </a>{" "}
             руководство органа по валидации и верификации парниковых газов ООО
@@ -214,7 +214,7 @@ export const AboutOrgan = () => {
           <h3 className={s.aboutOrganSubTitle}>
             Руководство органа по валидации и верификации парниковых газов ООО
             «Углеметан Групп» (далее – ОВВПГ) и его персонал принимают настоящую
-            <a href="/documents/politica_konf.pdf" title="открыть файл">
+            <a href="/documents/politica_konf.pdf" title="Открыть файл">
               {" "}
               Политику по обеспечению конфиденциальности
             </a>{" "}
@@ -240,7 +240,7 @@ export const AboutOrgan = () => {
           <br />
           <p className={s.aboutOrganDescr}> Апелляции и жалобы </p>
           <h3 className={s.aboutOrganSubTitle}>
-            <a href="/documents/obr.pdf" title="открыть файл">
+            <a href="/documents/obr.pdf" title="Открыть файл">
               Настоящая политика устанавливает порядок обращения с жалобами
             </a>
             , поступившими в Орган по валидации и верификации парниковых газов
